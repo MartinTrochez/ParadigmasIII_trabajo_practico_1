@@ -29,10 +29,11 @@ form {
   overflow-x: auto;
 }
 
-form>div>input[type=number],
+form>div>input[type=tel],
 form>div>input[type=text],
 form>div>div>input[type=number],
 form>div>div>input[type=text],
+form>div>div>input[type=cc-number],
 select {
   width: 100%;
   padding: 12px 20px;
