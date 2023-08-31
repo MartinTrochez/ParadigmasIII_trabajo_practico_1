@@ -166,6 +166,7 @@ nav {
 .recomendaciones {
   margin-left: 5%;
   flex: 50%;
+  border-radius: 20px;
 }
 
 .recomendaciones div,
@@ -195,6 +196,7 @@ nav {
   margin-right: 5%;
   flex: 50%;
   align-items: center;
+  border-radius: 30px;
 }
 
 .productos-populares ul {

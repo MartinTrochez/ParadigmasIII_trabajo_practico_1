@@ -17,6 +17,7 @@ main {
     display: flex;
     flex-direction: row;
 }
+
 .contenido-tabla td>a {
   position: relative;
   overflow: hidden;
